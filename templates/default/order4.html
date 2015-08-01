@@ -1,0 +1,141 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN""http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>在线提交订单</title>
+<style type="text/css">
+<!--
+body {
+	background-image:url(./images/cjlu801.jpg);
+	background-repeat:no-repeat;
+}
+body,td,th {
+	font-family: 宋体;
+	font-size: 12px;
+	color: #75929F;
+}
+.STYLE1 {	color: #FF6600;
+	font-weight: bold;
+}
+.faa {
+	font-family: "宋体";
+	font-size: 9pt;
+	color: #000000;
+	text-decoration: none;
+}
+.STYLE85 {
+	color: #FFFFFF
+}
+-->
+form{
+	width:900px;
+	height:400px;}
+#marqueecontainer{
+position: relative;
+width: 530px; /*marquee width */
+height:370px; /*marquee height */
+overflow: hidden;
+border: 0px;
+padding: 2px;
+padding-left: 0px;
+margin-left:40px;
+}
+div{
+	 width:200px;
+	 height:500px;
+	}
+</style>
+<script language="javascript" src="./images/getArea.js"></script>
+<script type="text/javascript">
+var delayb4scroll=2000 //Specify initial delay before marquee starts to scroll on page (2000=2 seconds)
+var marqueespeed=2 //Specify marquee scroll speed (larger is faster 1-10)
+var pauseit=1 //Pause marquee onMousever (0=no. 1=yes)?
+var copyspeed=marqueespeed
+var pausespeed=(pauseit==0)? copyspeed: 0
+var actualheight=''
+function scrollmarquee(){
+if (parseInt(cross_marquee.style.top)>(actualheight*(-1)+8))
+cross_marquee.style.top=parseInt(cross_marquee.style.top)-copyspeed+"px"
+else
+cross_marquee.style.top=parseInt(marqueeheight)+8+"px"
+}
+function initializemarquee(){
+cross_marquee=document.getElementById("vmarquee")
+cross_marquee.style.top=0
+marqueeheight=document.getElementById("marqueecontainer").offsetHeight
+actualheight=cross_marquee.offsetHeight
+if (window.opera || navigator.userAgent.indexOf("Netscape/7")!=-1){ //if Opera or Netscape 7x, add scrollbars to scroll and exit
+cross_marquee.style.height=marqueeheight+"px"
+cross_marquee.style.overflow="scroll"
+return
+}
+setTimeout('lefttime=setInterval("scrollmarquee()",30)', delayb4scroll)
+}
+if (window.addEventListener)
+window.addEventListener("load", initializemarquee, false)
+else if (window.attachEvent)
+window.attachEvent("onload", initializemarquee)
+else if (document.getElementById)
+window.onload=initializemarquee
+</script>
+</head>
+<body bgcolor="#FFFFFF">
+<table border="0" align="center" cellpadding="0" cellspacing="0" >  
+             </br>       
+            <td><table width="960" height="635"align="center" background="./images/cjlu4.jpg"   >     
+                <tr>
+                  <td ><center>
+                    <div id="marqueecontainer" onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed">
+                     <div id="vmarquee" style="position: absolute; width: 98%;">
+                        
+                       <p align="left"><b><a href="http://baike.baidu.com/subview/2630/8126571.htm?fr=aladdin">水的组成</a></b><br><font color="#000000">
+水（化学式：H?O）是由氢、氧两种元素组成的无机物，一般无毒。在常温常压下为无色无味的透明液体，被称为人类生命的源泉。水，包括天然水（河流、湖泊、大气水、海水、地下水等）{是含杂质}，蒸馏水是纯净水，人工制水（通过化学反应使氢氧原子结合得到的水）。水是地球上最常见的物质之一，是包括无机化合、人类在内所有生命生存的重要资源，也是生物体最重要的组成部分。水在生命演化中起到了重要作用。它是一种狭义不可再生，广义可再生资源。</font> </p>
+                            <p align="left"><b><a href="http://baike.baidu.com/subview/2630/8126571.htm?fr=aladdin">水的化学性质</a></b><br><font color="#000000">
+纯水可以导电，但十分微弱（导电性在日常生活中可以忽略），属于极弱的电解质。日常生活中的水由于溶解了其他电解质而有较多的正负离子，导电性增强。</font> </p> 
+                           <p align="left"><b><a href="http://baike.baidu.com/subview/2630/8126571.htm?fr=aladdin">关于纯净水</a></b><br><font color="#000000">
+纯净水——原水经过反渗透和杀菌装置等成套水处理设施后，除去了原水中绝大部分无机盐离子、微生物和有机物杂质,可以直接生饮的纯水。</font> </p>
+                           <p align="left"><b><a href="http://baike.baidu.com/subview/2630/8126571.htm?fr=aladdin">关于饮用水</a></b><br><font color="#000000">
+饮用水是指可以不经处理、直接供给人体饮用的水。水是体液的主要组成部分，是构成细胞、组织液、血浆等的重要物质。水作为体内一切化学反应的媒介，是各种营养素和物质运输的平台。</font> </p>
+                             <p align="left"><b><a href="http://baike.baidu.com/subview/2630/8126571.htm?fr=aladdin">饮用水</a></b><br><font color="#000000">
+饮用水包括干净的天然泉水、井水、河水和湖水，也包括经过处理的矿泉水、纯净水等。加工过的饮用水有瓶装水、桶装水、管道直饮水等形式。</font> </p>
+                            <p align="left"><b><a href="http://baike.baidu.com/subview/2630/8126571.htm?fr=aladdin">水的重要性</a></b><br><font color="#000000">
+水是人体的重要组成部分，也是新陈代谢的必要媒介。人体每天消耗的水分中，约有一半需要直接喝饮用水来补充，其他部分从饭食中直接获得，少部分由体内的碳水化合物分解而来。成人每天大约需要补充水分1200毫升左右</font> </p>
+                            <p align="left"><b><a href="http://baike.baidu.com/subview/2630/8126571.htm?fr=aladdin">白开水</a></b><br><font color="#000000">
+白开水的来源是市政自来水，因当地的水质不同而有不同的PH值。我们建议：在水烧开后要把壶盖打开烧3分钟左右，让水中的酸性及有害物质随蒸气蒸发掉。而且烧开的水最好当天喝，不要隔夜。</font> </p>
+                          <p align="left"><b><a href="http://baike.baidu.com/subview/2630/8126571.htm?fr=aladdin">自来水</a></b><br><font color="#000000">
+自来水是天然水的一种，是安全水，还含有天然饮水中的有益矿物质，是符合生活中的自来水  生活中的自来水
+人体生理功能的水。但存在管网老化、余氯等二次污染。如果能够深度净化，不失为一种更为大众化的健康水。</font> </p>
+                           <p align="left"><b><a href="http://baike.baidu.com/subview/2630/8126571.htm?fr=aladdin">了解水</a></b><br><font color="#000000">
+水是生命之源。人们的健康生活离不开安全，干净的饮用水。但在日常生活中，人们存在许多饮用水误区，这些误区为人类健康埋下了隐患，下面我们就来了解一下日常生活中有哪些饮用水误区。
+饮用水误区一：水越纯越好
+由于人体体液是微碱性，而纯净水呈弱酸性，如果长期摄入的饮用水是微酸性的水，体内环境将遭到破坏。大量饮用纯净水是日常生活中常见的饮用水误区，纯净水会带走人体内有用的微量元素，从而降低人体的免疫力，容易产生疾病。
+饮用水误区二：喝水仅为解渴
+干净、安全、健康的饮用水是最廉价最有效的保健品。由于一切细胞的新陈代谢都离不开水，只有让细胞也喝足水，才能促进新陈代谢，提高自身的抵抗力和免疫力。除此之外，饮用水在体内能将蛋白质、脂肪、碳水化合物、矿物质、无机盐等营养物质稀释，这样才能便于人体吸收。
+饮用水误区三：片面强调水中矿物质
+许多人把矿泉水作为日常生活的饮用水。当水中矿物含量超标时，会危害人体健康。例如，当饮用水中的碘化物含量在0.02－0.05毫克/升时，对人体有益，大于0.05毫克/升时则会引发碘中毒。
+饮用水误区四：饮料=饮用水
+水和饮料在功能上并不能等同。由于饮料中含有糖和蛋白质，又添加了不少香精和色素，饮用后不易使人产生饥饿感。因此，不但起不到给身体“补水”的作用，还会降低食欲，影响消化和吸收。</font> </p>
+                          <p align="left"><b><a href="http://baike.baidu.com/subview/2630/8126571.htm?fr=aladdin">喝水建议</a></b><br><font color="#000000">
+做到喝开水，不喝生水。一般细菌在水温80℃左右就不能生存，将水煮沸几分钟后，几乎可以将水中的细菌、病毒杀死。</font> </p>
+                          <p align="left"><b><a href="http://baike.baidu.com/subview/2630/8126571.htm?fr=aladdin">喝水建议</a></b><br><font color="#000000">
+水是人体不可缺少的物质，老少皆宜。需要注意的是，吃高蛋白膳食时要适当多喝些水；尿酸高而肾功能正常的人应适当多喝些水。</font> </p>
+ 
+
+
+</div></div>
+                                                    
+                  </center>        <font size="+1" color="#FF0000"> <a href="javascript:history.go(-1);"> 》》返回主界面</a></font>         
+                  </tr>
+               
+            </table>     
+
+
+           
+          </tr>
+        </table></td>
+      </tr>
+     
+      </table>
+<script language="javascript"> Init();</script>
+</body>
+</html>

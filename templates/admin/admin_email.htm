@@ -1,0 +1,38 @@
+{template admin_header 0 admin}
+<BR />
+<table width="100%" border="0" cellpadding="3" cellspacing="1" bgcolor="#003366">
+<form name="form" method="post" action="?action=email&operation=send" target="_blank">
+<input type="hidden" name="type" value="$operation" />
+<input type="hidden" name="id" value="$id" />
+<tr class="header">
+<td height="20" colspan="2">在线发送Email</td>
+</tr>
+<tr class="th1">
+<td width="13%" height="24" align="center" bgcolor="#FFFFFF">接 受 人：</td>
+<td width="87%" align="left" bgcolor="#FFFFFF"><input type="text" name="tomail" id="tomail" /></td>
+</tr>
+<tr class="th1">
+<td height="24" align="center" bgcolor="#FFFFFF">邮件标题：</td>
+<td align="left" bgcolor="#FFFFFF"><input type="text" name="subject" id="subject" /></td>
+</tr>
+<tr class="th1">
+<td height="24" align="center" bgcolor="#FFFFFF">邮件内容：</td>
+<td align="left" bgcolor="#FFFFFF">
+说明：
+<!--{if $operation == 'order'}-->
+model表示商品型号，name表示姓名，tele表示电话，mobile表示手机号码，price表示价格，number表示数量，city表示所在城市，addrress表示详细地址，zipcode表示邮政编码，message表示备注说明，ip表示客户端IP地址，time表示提交时间
+<!--{else}-->
+bianhao表示编号，name表示姓名，tele表示电话，price表示价格，paytime表示汇款时间，bank表示汇款银行，ip表示客户端IP地址，time表示提交时间
+<!--{/if}--><BR />
+<textarea name="message" id="message" cols="50" rows="10"></textarea></td>
+</tr>
+<tr class="th1">
+  <td height="49" colspan="2" align="center" bgcolor="#CCCCCC">
+  	<input name="submit" type="submit" id="submitl" class="button"  value="发送" />
+    <input name="submit" type="button" id="submitl" class="button" onclick="javascript:history.go(-1);" value="返回" />
+  </td>
+</tr>
+</form>
+</table>
+<BR /><BR />
+{template admin_footer 0 admin}

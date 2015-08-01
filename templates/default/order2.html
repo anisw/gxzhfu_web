@@ -1,0 +1,267 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN""http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>在线提交订单</title>
+<style type="text/css">
+<!--
+body {
+	background-image:url(./images/cjlu801.jpg);
+	background-repeat:no-repeat;
+}
+body,td,th {
+	font-family: 宋体;
+	font-size: 12px;
+	color: #75929F;
+}
+.STYLE1 {	color: #FF6600;
+	font-weight: bold;
+}
+.faa {
+	font-family: "宋体";
+	font-size: 9pt;
+	color: #000000;
+	text-decoration: none;
+}
+.STYLE85 {
+	color: #FFFFFF
+}
+.table.alink
+{
+	text-decoration:none;
+	}
+a:link {
+text-decoration: none;
+}
+a:visited {
+text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
+}
+a:active {
+text-decoration: none;
+}
+
+-->
+
+</style>
+<script language="javascript">
+
+
+function  FillPrice()
+{
+	var oForm = document.form1;
+	var p=oForm.number.value;
+	if(oForm.model.value=="虎跑梦泉")
+		{
+		oForm.price.value=9*p;
+		}
+	if(oForm.model.value=="农夫山泉")
+	{
+	  oForm.price.value=12*p;
+	}
+	
+}
+function  chk()
+{
+	var oForm = document.form1;
+	
+	if(oForm.model.value.length == 0)
+	{
+		alert("请填写商品型号!");
+		oForm.model.focus();
+		return false;
+	}
+	
+	if(oForm.price.value.length == 0){
+		alert("请填写价格!");
+		oForm.price.focus();
+		return false;
+	}
+	
+	if(oForm.name.value.length == 0){
+		alert("请填写姓名!");
+		oForm.name.focus();
+		return false;
+	}
+	
+	if(oForm.tel.value.length == 0 && oForm.mobile.value.length == 0)
+	{
+		alert("请填写联系电话或者手机!");
+		oForm.tel.focus();
+		return false;
+	}
+	if(oForm.sheng.value == '请选择'){
+		alert("请选择省份!");
+		oForm.sheng.focus();
+		return false;
+	}
+	if(oForm.address.value.length == 0)
+	{
+		alert("请填写详细地址!");
+		oForm.address.focus();
+		return false;
+	}
+	if (confirm('确认提交吗?'))
+	{
+		return true;	
+	}else{
+		return false;	
+	}
+
+}
+
+</script>
+<script language="javascript" type="text/javascript">
+	var S_province = '';
+	var S_city     = '';
+	var S_xian     = '';
+	var sheng_index = 0;
+	var shi_index = 0;
+</script>  
+<script language="javascript" src="./images/getArea.js"></script>
+
+</head>
+<body bgcolor="#FFFFFF">
+<table border="0" >
+
+      <tr >
+          <td >
+            
+               <table border="0" width="220"  height="360" >
+                  <tr>
+               </table>
+             
+          
+          </td>
+          <td width="960"><table border="0" align="center" cellpadding="0" cellspacing="0" >  
+             </br>       
+            <td>
+                       <table width="960" height="635"align="center" background="./images/cjlu4.jpg"   >     
+                             <tr>
+                                   <td ><center>
+                    
+                                         <form name="form1" method="post" action="../../order_save.php" >
+                                         <table cellspacing="0" cellpadding="0" >
+                         
+                                         <tr></tr>
+                                         <tr></tr>
+                                         <tr></tr>
+                                         <tr></tr>
+                                        </table>
+                                         <table width="780" height="431" border="0" cellpadding="0" cellspacing="1"   >
+                          <tr>
+                            <td width="618" height="429" >
+                       <br>   <br>
+                       <table width="700" height="433"  cellpadding="0" cellspacing="0"  >
+                         <tr>
+                                <td height="46" colspan="3" align="center"><input size="30" value="  请在下面填写您的详细订单资料" name="title" /></td>                              
+                              </tr>
+                                <tr>
+                                <td rowspan="7" width="99">
+                                                            
+                               <SCRIPT LANGUAGE="JavaScript" src="info.php">
+							   </SCRIPT>
+                          
+                                
+                                </td>
+                                  <td height="60" align="center" ><font color="#000000">
+                                   
+                                  商品类型:</font></td>
+                                  <td width="413" colspan="2" align="left">
+                                     <select name="model" id="model" OnChange="FillPrice()" style="width:150px;">
+                                        <option value="虎跑梦泉">虎跑梦泉(单价9元)</option>                      
+                                        <option value="农夫山泉"  selected>农夫山泉(单价12元)</option>
+                                        
+                                    </select>
+                                   (*)</td>
+                                </tr>
+                                <tr>
+                                  <td height="46" align="center"><font color="#000000">订购数量：</font></td>
+                                  <td colspan="2" align="left">
+                                    <select name="number" id="number" OnChange="FillPrice()" style="width:150px;">
+                                      <option value="1" selected>1</option>
+                                      <option value="2">2</option>
+                                      <option value="3">3</option>
+                                      <option value="4">4</option>
+                                      <option value="5">5</option>
+                                 </select> (*)
+                                 </td>
+                                </tr>
+                                
+                                <tr>
+                                  <td height="46" align="center"><font color="#000000">价 格:</font> </td>
+                                  <td colspan="2" align="left">
+                                      <input name="price" id="price" style="width:150px;">
+                                        
+                                   (*) </td>
+                                </tr>
+                                <tr>
+                                  <td width="186" height="46" align="center"><font color="#000000">姓 名:</font> </td>
+                                  <td colspan="2" align="left"><input name="name" type="text" id="name"> (*)</td>
+                                </tr>
+                                
+                                
+                                <tr>
+                                  <td height="46" align="center"><font color="#000000">手 机: </font></td>
+                                  <td height="46" colspan="2" align="left">
+                                  	<input name="mobile" type="text" id="mobile"> (*) 
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td height="37" align="center"><font color="#000000">所在寝室：</font></td>
+                                  <td height="37" colspan="2" align="left"><div align="left">
+                                        <select id="sheng" name="sheng" onChange="selectCity()" style="width:80px;">
+                                        	<option value="" selected="true">楼号</option>
+                                        </select> --
+                                        <select id="shi" name="shi" onChange="selectCountry()" style="width:80px;">
+                                        	<option value="" selected="true">方向</option>
+                                        </select> --
+                                        <select id="xian" name="xian" style="width:80px;">
+                                        	<option value="" selected="true">寝室号</option>
+                                        </select>
+                                  </div></td>
+                                </tr>
+                                
+                               
+                                <tr>
+                                  <td height="46" align="center"><font color="#000000">备 注：</font> </td>
+                                  <td height="46" colspan="2" align="left"><textarea name="note" cols="50" rows="5" wrap="note" id="note"></textarea><br>
+
+                                  </td>
+                                </tr>
+                                <tr>
+                                <td height="38" colspan="2" ></td>
+                               
+                               </tr>
+                               
+                          </table>
+                         
+                            </td>
+                          </tr>
+                        </table>
+                        <p><br>
+                          <input name="Submit2" type="submit" onClick="return chk()" value=" 提交订单 ">
+                         
+                        </p>
+                         
+                      </form>
+                      
+                      
+                </center>     <font size="+1" color="#FF0000"> <a href="javascript:history.go(-1);"> 》》返回主界面</a></font>               
+                         </tr>
+               
+            </table>     
+           
+          </tr>
+        </table></td>
+          <td width="220" ></td>
+      </tr>  
+  
+ </table>
+      </tr>
+  </table>
+<script language="javascript"> Init();</script>
+</body>
+</html>

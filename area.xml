@@ -1,0 +1,2598 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<address>
+<province name="请选择" id="">
+	<city name="请选择" id="">
+		<country name="请选择" id="" />
+	 </city>
+</province>	 
+
+<province name="一号楼" id="25">
+	<city name="东一楼" id="27">
+		<country name="100" id="31" />
+		<country name="101" id="32" />
+		<country name="102" id="33" />
+		<country name="103" id="3309" />
+		<country name="104" id="3312" />
+		<country name="105" id="3315" />
+		<country name="106" id="3316" />
+		<country name="107" id="3317" />
+		<country name="108" id="3480" />
+		<country name="109" id="3482" />
+		<country name="120" id="3484" />
+		<country name="121" id="3485" />
+		<country name="122" id="3486" />
+		<country name="123" id="3487" />
+		<country name="124" id="3488" />
+		<country name="125" id="3490" />
+		<country name="126" id="3492" />
+		<country name="127" id="3493" />
+		<country name="128" id="3494" />
+		<country name="129" id="3495" />
+		<country name="130" id="3496" />
+		<country name="131" id="3497" />
+		<country name="132" id="3498" />
+		<country name="133" id="3500" />
+	</city>
+	<city name="东二楼" id="28">
+		<country name="200" id="3274" />
+		<country name="201" id="3275" />
+		<country name="202" id="3276" />
+		<country name="203" id="3277" />
+		<country name="204" id="3278" />
+		<country name="205" id="3279" />
+		<country name="206" id="3280" />
+		<country name="207" id="3582" />
+		<country name="208" id="3610" />
+		<country name="209" id="3611" />
+		<country name="210" id="3612" />
+		<country name="211" id="3614" />
+		<country name="212 " id="3616" />
+		<country name="213" id="3618" />
+		<country name="214" id="3619" />
+		<country name="215" id="3620" />
+		<country name="216 " id="3621" />
+		<country name="217" id="3627" />
+		<country name="218" id="3628" />
+		<country name="219" id="3629" />
+		<country name="220" id="3630" />
+		<country name="221" id="3632" />
+		<country name="222" id="3633" />
+		<country name="223" id="3635" />
+		<country name="224" id="3636" />
+		<country name="225" id="3637" />
+		<country name="226" id="3639" />
+		<country name="227" id="3640" />
+		<country name="228" id="3641" />
+		<country name="229" id="3643" />
+		<country name="230" id="3651" />
+		<country name="231" id="3654" />
+		<country name="232" id="3657" />
+		<country name="233" id="3701" />
+	</city>
+	<city name="东三楼" id="29">
+		<country name="301" id="3874" />
+		<country name="302" id="3875" />
+		<country name="303" id="3876" />
+		<country name="304" id="3877" />
+		<country name="305" id="3878" />
+		<country name="306" id="3879" />
+		<country name="307" id="3880" />
+		<country name="308 " id="3881" />
+		<country name="309" id="3882" />
+		<country name="310" id="3883" />
+		<country name="311" id="3884" />
+		<country name="312" id="3885" />
+		<country name="313" id="3886" />
+		<country name="314 " id="3887" />
+		<country name="315" id="3888" />
+		<country name="316" id="3889" />
+		<country name="317" id="3890" />
+		<country name="318" id="3891" />
+		<country name="319" id="3892" />
+		<country name="320" id="34" />
+		<country name="321" id="35" />
+		<country name="322" id="36" />
+		<country name="323" id="37" />
+		<country name="324" id="38" />
+		<country name="325" id="39" />
+		<country name="326" id="40" />
+		<country name="327" id="41" />
+		<country name="328" id="42" />
+		<country name="329" id="43" />
+		<country name="330" id="44" />
+		<country name="331" id="45" />
+		<country name="332" id="46" />
+		<country name="333" id="47" />
+	</city>
+	<city name="东四楼" id="30">
+		<country name="400 " id="3916" />
+		<country name="401" id="3915" />
+		<country name="402" id="3914" />
+		<country name="403" id="3913" />
+		<country name="404" id="3912" />
+		<country name="405" id="3911" />
+		<country name="406" id="3910" />
+		<country name="407" id="3909" />
+		<country name="408" id="3908" />
+		<country name="409" id="3907" />
+		<country name="410" id="3906" />
+		<country name="411" id="3905" />
+		<country name="412" id="3904" />
+		<country name="413" id="3903" />
+		<country name="414" id="3902" />
+		<country name="415" id="3901" />
+		<country name="416" id="3900" />
+		<country name="417" id="3899" />
+		<country name="418" id="3898" />
+		<country name="419" id="3897" />
+		<country name="420" id="3896" />
+		<country name="421" id="3895" />
+		<country name="422" id="3894" />
+		<country name="423" id="3893" />
+	</city>
+	<city name="东五楼" id="53">
+		<country name="501" id="3917" />
+		<country name="502" id="3918" />
+		<country name="503" id="3919" />
+		<country name="504" id="3920" />
+		<country name="505" id="3921" />
+		<country name="506" id="3922" />
+		<country name="507" id="3923" />
+		<country name="508" id="3924" />
+		<country name="509" id="3925" />
+		<country name="510" id="3926" />
+		<country name="511" id="3927" />
+		<country name="512" id="3928" />
+		<country name="513" id="3929" />
+		<country name="514" id="3930" />
+	</city>
+	<city name="东六楼" id="55">
+		<country name="600" id="3931" />
+		<country name="601" id="3932" />
+		<country name="602" id="3933" />
+		<country name="603" id="3934" />
+		<country name="604" id="3935" />
+		<country name="605" id="3936" />
+		<country name="606" id="3937" />
+		<country name="607" id="3938" />
+		<country name="608" id="3939" />
+		<country name="609" id="3940" />
+		<country name="610" id="3941" />
+		<country name="611" id="3942" />
+		<country name="612" id="3943" />
+		<country name="613" id="3944" />
+		<country name="614" id="3945" />
+		<country name="615" id="3946" />
+		<country name="616" id="3947" />
+		<country name="617" id="3948" />
+		<country name="618" id="3949" />
+		<country name="619" id="3950" />
+		<country name="620" id="3951" />
+		<country name="621 " id="3952" />
+	</city>
+	<city name="西一楼" id="56">
+		<country name="100" id="3953" />
+		<country name="101" id="3954" />
+		<country name="102" id="3955" />
+		<country name="103 " id="3956" />
+		<country name="104" id="3957" />
+		<country name="105" id="3958" />
+		<country name="106" id="3959" />
+		<country name="107" id="3960" />
+		<country name="108" id="3961" />
+		<country name="109" id="3962" />
+		<country name="110" id="3963" />
+		<country name="111" id="3964" />
+		<country name="112" id="3965" />
+		<country name="113" id="3966" />
+		<country name="114" id="3967" />
+		<country name="115" id="3968" />
+		<country name="116" id="3969" />
+		<country name="117" id="3970" />
+		<country name="118" id="3971" />
+		<country name="119" id="3972" />
+		<country name="120" id="3973" />
+		<country name="121" id="3974" />
+		<country name="122" id="3975" />
+		<country name="123" id="3976" />
+		<country name="124 " id="3977" />
+		<country name="125" id="3978" />
+		<country name="126" id="3979" />
+		<country name="127" id="3980" />
+		<country name="128" id="3981" />
+		<country name="129" id="3982" />
+		<country name="130" id="3983" />
+		<country name="131" id="3984" />
+		<country name="132" id="3985" />
+		<country name="133" id="3986" />
+	</city>
+	<city name="西二楼" id="58">
+		<country name="200" id="3993" />
+		<country name="201" id="3994" />
+		<country name="202" id="3995" />
+		<country name="203" id="3996" />
+		<country name="204" id="3997" />
+		<country name="205" id="3998" />
+		<country name="206" id="3999" />
+		<country name="207" id="4000" />
+		<country name="208" id="4001" />
+		<country name="209" id="4002" />
+		<country name="210" id="4003" />
+		<country name="211 " id="4004" />
+		<country name="212" id="4005" />
+		<country name="213" id="4006" />
+		<country name="214" id="4007" />
+		<country name="215" id="4008" />
+	</city>
+	<city name="西三楼" id="65">
+		<country name="300" id="4009" />
+		<country name="301" id="4010" />
+		<country name="302" id="4011" />
+		<country name="303 " id="4012" />
+		<country name="304" id="4013" />
+		<country name="305" id="4014" />
+		<country name="306" id="4015" />
+		<country name="307 " id="4016" />
+	</city>
+	<city name="西四楼" id="68">
+		<country name="400" id="4017" />
+		<country name="401" id="4018" />
+		<country name="402" id="4019" />
+		<country name="403" id="4020" />
+		<country name="404" id="4021" />
+		<country name="405" id="4022" />
+		<country name="406 " id="4023" />
+	</city>
+	<city name="西五楼" id="70">
+		<country name="500" id="4024" />
+		<country name="501" id="4025" />
+		<country name="502" id="4026" />
+		<country name="503" id="4027" />
+		<country name="504" id="4028" />
+		<country name="505" id="4029" />
+		<country name="506" id="4030" />
+		<country name="507" id="4031" />
+		<country name="508" id="4032" />
+		<country name="509" id="4033" />
+		<country name="510" id="4034" />
+		<country name="511" id="4035" />
+		<country name="512" id="4036" />
+		<country name="513" id="4037" />
+		<country name="514" id="4038" />
+		<country name="515" id="4039" />
+		<country name="516" id="4040" />
+		<country name="517" id="4041" />
+		<country name="518" id="4042" />
+		<country name="519" id="4043" />
+		<country name="520" id="4044" />
+		<country name="521" id="4045" />
+		<country name="522" id="4046" />
+		<country name="523" id="4047" />
+	</city>
+	<city name="西六楼" id="72">
+		<country name="600" id="4048" />
+		<country name="601" id="4049" />
+		<country name="602" id="4050" />
+		<country name="603" id="4087" />
+		<country name="604" id="4088" />
+		<country name="605" id="4089" />
+		<country name="606" id="4090" />
+		<country name="607" id="4091" />
+		<country name="608" id="4092" />
+		<country name="609" id="4093" />
+		<country name="610 " id="4094" />
+	</city>
+</province>
+
+<province name="二号楼" id="26">
+	<city name="东一楼" id="168">
+		<country name="100" id="3282" />
+		<country name="101" id="3284" />
+		<country name="102" id="3287" />
+		<country name="103" id="3289" />
+		<country name="104" id="3292" />
+		<country name="105" id="3293" />
+		<country name="106" id="3294" />
+		<country name="107" id="3295" />
+		<country name="108" id="3296" />
+		<country name="109" id="3299" />
+		<country name="110" id="3301" />
+		<country name="111" id="3304" />
+	</city>
+	<city name="东二楼" id="169">
+		<country name="200" id="3318" />
+		<country name="201" id="3322" />
+		<country name="202" id="3325" />
+		<country name="203" id="3330" />
+		<country name="204" id="3333" />
+		<country name="205" id="3339" />
+		<country name="206" id="3342" />
+		<country name="207" id="3346" />
+	</city>
+	<city name="东三楼" id="170">
+		<country name="300" id="3352" />
+		<country name="301" id="3353" />
+		<country name="302" id="3354" />
+		<country name="303" id="3356" />
+		<country name="304" id="3360" />
+		<country name="305" id="3362" />
+		<country name="306" id="3365" />
+		<country name="307" id="3367" />
+		<country name="308" id="3370" />
+		<country name="309" id="3371" />
+		<country name="310" id="3374" />
+		<country name="311" id="3376" />
+		<country name="312" id="3380" />
+		<country name="313" id="3381" />
+		<country name="314" id="3384" />
+		<country name="315" id="3387" />
+		<country name="316" id="3388" />
+		<country name="317" id="3389" />
+		<country name="318" id="3396" />
+	</city>
+	<city name="东四楼" id="171">
+		<country name="400" id="3401" />
+		<country name="401" id="3404" />
+		<country name="402" id="3405" />
+		<country name="403" id="3407" />
+		<country name="404" id="3415" />
+		<country name="405" id="3417" />
+		<country name="406" id="3418" />
+		<country name="407" id="3420" />
+		<country name="408" id="3423" />
+		<country name="409" id="3426" />
+		<country name="410" id="3428" />
+		<country name="411" id="3431" />
+		<country name="412" id="3434" />
+		<country name="413" id="3437" />
+	</city>
+	<city name="东五楼" id="172">
+		<country name="500" id="3457" />
+		<country name="501" id="3459" />
+		<country name="502" id="3461" />
+		<country name="503" id="3462" />
+		<country name="504" id="3464" />
+		<country name="505" id="3466" />
+		<country name="506" id="3467" />
+		<country name="507" id="3468" />
+		<country name="508" id="3489" />
+		<country name="509" id="3491" />
+	</city>
+	<city name="东六楼" id="173">
+		<country name="600" id="3499" />
+		<country name="601" id="3503" />
+		<country name="602" id="3505" />
+		<country name="603" id="3508" />
+		<country name="604" id="3511" />
+		<country name="605" id="3515" />
+		<country name="606" id="3518" />
+		<country name="607" id="3520" />
+		<country name="608" id="3525" />
+		<country name="609" id="3528" />
+		<country name="610" id="3530" />
+		<country name="611" id="3536" />
+		<country name="612" id="3541" />
+		<country name="613" id="3544" />
+		<country name="614" id="3547" />
+		<country name="615" id="3553" />
+		<country name="616" id="3556" />
+		<country name="617" id="3560" />
+	</city>
+	<city name="西一楼" id="174">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="西二楼" id="175">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="西三楼" id="176">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="西四楼" id="177">
+		<country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="西五楼" id="178">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="西六楼" id="179">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>	
+</province>
+
+<province name="三号楼" id="34">
+	<city name="北一楼" id="150">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="北二楼" id="151">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="北三楼" id="152">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="北四楼" id="153">
+		<country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="北五楼" id="154">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="北六楼" id="155">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>
+	<city name="南一楼" id="156">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="南二楼" id="157">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="南三楼" id="158">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="南四楼" id="159">
+		<country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="南五楼" id="160">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="南六楼" id="161">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>	
+</province>
+
+<province name="四号楼" id="35">
+	<city name="东一楼" id="110">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="东二楼" id="111">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="东三楼" id="112">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="东四楼" id="113">
+	    <country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="东五楼" id="114">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="东六楼" id="115">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>
+	<city name="西一楼" id="116">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="西二楼" id="117">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="西三楼" id="118">
+	    <country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="西四楼" id="119">
+	    <country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="西五楼" id="120">
+	    <country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="西六楼" id="121">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>	
+</province>
+
+<province name="五号楼" id="6">
+	<city name="东一楼" id="41">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="东二楼" id="52">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="东三楼" id="54">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="东四楼" id="57">
+		<country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="东五楼" id="59">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="东六楼" id="60">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>
+	<city name="西一楼" id="61">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="西二楼" id="62">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="西三楼" id="63">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="西四楼" id="64">
+		<country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="西五楼" id="66">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="西六楼" id="67">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>
+</province>
+
+<province name="六号楼" id="23">
+	<city name="东一楼" id="80">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="东二楼" id="81">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="东三楼" id="82">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="东四楼" id="83">
+		<country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="东五楼" id="84">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="东六楼" id="85">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>
+	<city name="西一楼" id="86">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="西二楼" id="87">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="西三楼" id="88">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="西四楼" id="89">
+		<country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="西五楼" id="90">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="西六楼" id="91">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>
+</province>
+
+<province name="七号楼" id="24">
+	<city name="北一楼" id="379">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="北二楼" id="421">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="北三楼" id="423">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="北四楼" id="425">
+		<country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="北五楼" id="426">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="北六楼" id="428">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>
+	<city name="南一楼" id="436">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="南二楼" id="437">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="南三楼" id="438">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="南四楼" id="439">
+		<country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="南五楼" id="442">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="南六楼" id="443">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>
+</province>
+
+<province name="八号楼" id="36">
+	<city name="东一楼" id="844">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="东二楼" id="870">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="东三楼" id="867">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="东四楼" id="865">
+		<country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="东五楼" id="859">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="东六楼" id="857">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>
+	<city name="西一楼" id="854">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="西二楼" id="851">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="西三楼" id="849">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="西四楼" id="847">
+		<country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="西五楼" id="883">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="西六楼" id="884">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>
+</province>
+
+<province name="九号楼" id="37">
+	<city name="北一楼" id="380">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="北二楼" id="381">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="北三楼" id="382">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="北四楼" id="383">
+		<country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="北五楼" id="387">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="北六楼" id="389">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>
+	<city name="南一楼" id="390">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="南二楼" id="392">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="南三楼" id="394">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="南四楼" id="825">
+		<country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="南五楼" id="825">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="南六楼" id="826">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>
+</province>
+
+<province name="十号楼" id="827">
+	<city name="东一楼" id="739">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="东二楼" id="782">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="东三楼" id="812">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="东四楼" id="826">
+		<country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="东五楼" id="863">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="东六楼" id="886">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>
+	<city name="西一楼" id="903">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="西二楼" id="920">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="西三楼" id="965">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="西四楼" id="973">
+		<country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="西五楼" id="1004">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="西六楼" id="1019">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>	
+</province>
+
+<province name="十一号楼" id="39">
+	<city name="北一楼" id="2791">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="北二楼" id="2802">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="北三楼" id="2813">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="北四楼" id="2820">
+		<country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="北五楼" id="2825">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="北六楼" id="2833">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>
+	<city name="南一楼" id="2840">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="南二楼" id="2846">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="南三楼" id="2852">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="南四楼" id="2853">
+		<country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="南五楼" id="2854">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="南六楼" id="2855">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>
+</province>
+
+<province name="十三号楼" id="40">
+	<city name="东一楼" id="2023">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="东二楼" id="2024">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="东三楼" id="2025">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="东四楼" id="2026">
+		<country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="东五楼" id="2027">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="东六楼" id="2028">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>
+	<city name="西一楼" id="2029">
+		<country name="100" id="3570" />
+		<country name="101" id="3571" />
+		<country name="102" id="3572" />
+		<country name="103" id="3573" />
+		<country name="104" id="3574" />
+		<country name="105" id="3575" />
+		<country name="106" id="3576" />
+		<country name="107" id="3577" />
+		<country name="108" id="3578" />
+		<country name="109" id="3579" />
+		<country name="110" id="3580" />
+		<country name="111" id="3581" />
+		<country name="112" id="3583" />
+		<country name="113" id="3584" />
+		<country name="114" id="3585" />
+	</city>
+	<city name="西二楼" id="2030">
+		<country name="200" id="3586" />
+		<country name="201" id="3587" />
+		<country name="202" id="3588" />
+		<country name="203" id="3589" />
+		<country name="204" id="3590" />
+		<country name="205" id="3591" />
+		<country name="206" id="3592" />
+		<country name="207" id="3593" />
+		<country name="208" id="3594" />
+		<country name="209" id="3595" />
+		<country name="210" id="3596" />
+		<country name="211" id="3597" />
+		<country name="212" id="3598" />
+		<country name="213" id="3599" />
+		<country name="214" id="3600" />
+	</city>
+	<city name="西三楼" id="2031">
+		<country name="300" id="3601" />
+		<country name="301" id="3602" />
+		<country name="302" id="3603" />
+		<country name="303" id="3604" />
+		<country name="304" id="3605" />
+		<country name="305" id="3606" />
+		<country name="306" id="3607" />
+		<country name="307" id="3608" />
+		<country name="308" id="3609" />
+		<country name="309" id="3613" />
+		<country name="310" id="3615" />
+		<country name="311" id="3617" />
+		<country name="312" id="3622" />
+		<country name="313" id="3623" />
+		<country name="314" id="3624" />
+		<country name="315" id="3625" />
+	</city>
+	<city name="西四楼" id="2032">
+		<country name="400" id="3626" />
+		<country name="401" id="3631" />
+		<country name="402" id="3634" />
+		<country name="403" id="3638" />
+		<country name="404" id="3642" />
+		<country name="405" id="3644" />
+		<country name="406" id="3646" />
+		<country name="407" id="3648" />
+		<country name="408" id="3656" />
+		<country name="409" id="3659" />
+		<country name="410" id="3662" />
+		<country name="411" id="3666" />
+		<country name="412" id="3669" />
+		<country name="413" id="3672" />
+		<country name="414" id="3684" />
+		<country name="415" id="3687" />
+		<country name="416" id="3690" />
+		<country name="417" id="3692" />
+	</city>
+	<city name="西五楼" id="2033">
+		<country name="500" id="3696" />
+		<country name="501" id="3699" />
+		<country name="502" id="3703" />
+		<country name="503" id="3708" />
+		<country name="504" id="3711" />
+		<country name="505" id="3713" />
+		<country name="506" id="3716" />
+		<country name="507" id="3720" />
+		<country name="508" id="3724" />
+		<country name="509" id="3729" />
+		<country name="510" id="3732" />
+		<country name="511" id="3736" />
+		<country name="512" id="3737" />
+		<country name="513" id="3740" />
+		<country name="514" id="3743" />
+		<country name="515" id="3745" />
+		<country name="516" id="3748" />
+		<country name="517" id="3749" />
+		<country name="518" id="3752" />
+	</city>
+	<city name="西六楼" id="2034">
+		<country name="600" id="3754" />
+		<country name="601" id="3757" />
+		<country name="602" id="3760" />
+		<country name="603" id="3762" />
+		<country name="604" id="3764" />
+		<country name="605" id="3765" />
+		<country name="606" id="3770" />
+		<country name="607" id="3772" />
+		<country name="608" id="3775" />
+	</city>
+</province>
+
+
+</address>
